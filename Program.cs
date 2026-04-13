@@ -8,7 +8,7 @@ namespace ai_chat1
         {//start of main method
 
             // Create an instance of the class voice_logo
-            //without an object name but a constructor (with parameters)
+            //without an object name but a constructor 
             new voice_logo() { };
 
             //creating an instance for the class prompt_user 
