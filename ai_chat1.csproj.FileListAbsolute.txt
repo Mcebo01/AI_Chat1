@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\ai_chat1\bin\Debug\ai_chat1.exe.config
+C:\Users\Student\source\repos\ai_chat1\bin\Debug\ai_chat1.exe
+C:\Users\Student\source\repos\ai_chat1\bin\Debug\ai_chat1.pdb
+C:\Users\Student\source\repos\ai_chat1\obj\Debug\ai_chat1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ai_chat1\obj\Debug\ai_chat1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ai_chat1\obj\Debug\ai_chat1.exe
+C:\Users\Student\source\repos\ai_chat1\obj\Debug\ai_chat1.pdb
+C:\Users\Student\source\repos\ai_chat1\obj\Debug\ai_chat1.exe.config
